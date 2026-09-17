@@ -7,3 +7,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 temp = float(input())
+
+temp >= 37.5
+print("Fever")
+
+temp <= 37.5
+print("Normal")
