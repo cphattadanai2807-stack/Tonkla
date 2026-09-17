@@ -8,3 +8,5 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 price = float(input())
 is_member = int(input())
+is_member(price) = *10
+not_member(price) = 0
