@@ -8,3 +8,4 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 pay = int(input())
 price = int(input())
+total = print(int(pay - price))
